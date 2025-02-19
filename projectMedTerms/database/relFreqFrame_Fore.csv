@@ -1,0 +1,76 @@
+EnglishTerms,meaning,count,EstonianTerms,countINsample2,ForeignTerms,countINsample2.1,sentenceEx,source,foreign_vs_Estonian,rel_Freq_Est,rel_Freq_Fore
+ascites,,,vesikõht,2,astsiit,7,,,3.5,0.0002,0.0002
+auscultation,,,kuulatlus,4,auskultatsioon,8,,,2.0,0.0005,0.0002
+osteophyte,,,luukasvis,3,osteofüüt,8,,,2.67,0.0004,0.0002
+nystagmus,,,silmatõmblus,2,nüstagm,10,,,5.0,0.0002,0.0002
+haematuria,,,verikusesus,1,hematuuria,12,,,12.0,0.0001,0.0003
+hirsutism,,,liigkarvasus,4,hirsutism,12,,,3.0,0.0005,0.0003
+uraemia,,,kusiveresus,4,ureemia,15,,,3.75,0.0005,0.0003
+bradycardia,,,südameaeglus,1,bradükardia,23,,,23.0,0.0001,0.0005
+hyperthermia,,,liigsoojus,14,hüpertermia,28,,,2.0,0.0017,0.0006
+apnoea,,,hingamispeetus,26,apnoe,28,,,1.08,0.0032,0.0006
+dentine,,,hambaluu,13,dentiin,30,,,2.31,0.0016,0.0007
+halitosis,,,suulehk,18,halitoos,32,,,1.78,0.0022,0.0007
+pediculosis,,,täitõbi,34,pedikuloos,35,,,1.03,0.0042,0.0008
+hyperplasia,,,liigkasv,3,hüperplaasia,36,,,12.0,0.0004,0.0008
+emphysema ,,,kopsupuhitus,11,emfüseem ,44,,,4.0,0.0014,0.001
+ichthyosis,,,soomustõbi,3,ihtüoos,48,,,16.0,0.0004,0.0011
+stenosis,,,kitsenemus,2,stenoos,52,,,26.0,0.0002,0.0012
+stomatitis ,,,suupõletik,12,stomatiit,59,,,4.92,0.0015,0.0013
+axon,,,telgniit,2,akson,60,,,30.0,0.0002,0.0014
+cardiomyopathy,,,südamelihasehaigestumus,1,kardiomüopaatia,87,,,87.0,0.0001,0.002
+alopecia,,1394.0,juuksekadu,81,alopeetsia,97,,,1.2,0.0101,0.0022
+colitis ,,,jämesoolepõletik,24,koliit,101,,,4.21,0.003,0.0023
+narcolepsy,,,tukkumistõbi,2,narkolepsia,102,,,51.0,0.0002,0.0023
+aphasia,,695.0,kõnehalvatus,27,afaasia,111,,,4.11,0.0034,0.0025
+haematoma,,,verimuhk,5,hematoom,120,,,24.0,0.0006,0.0027
+leukocyte,,,valgelible,87,leukotsüüt,127,,,1.46,0.0108,0.0029
+hypothermia,,,vaegsoojumus,7,hüpotermia,129,,,18.43,0.0009,0.0029
+scoliosis,,,vildakselgsus,14,skolioos,143,,,10.21,0.0017,0.0033
+,,,kõhetus,6,atroofia,157,,,26.17,0.0007,0.0036
+dehydration,,,veetustamine,16,dehüdratsioon,177,,,11.06,0.002,0.004
+bronchus,,,kopsutoru,21,bronh,205,,,9.76,0.0026,0.0047
+lactation,,,piimaeritus,10,laktatsioon,208,,,20.8,0.0012,0.0047
+pancreatitis ,,,kõhunäärmepõletik ,60,pankreatiit ,224,,,3.73,0.0075,0.0051
+keratin,,,sarvaine,14,keratiin,235,,,16.79,0.0017,0.0054
+thrombocyte,,,vereliistak,161,trombotsüüt,238,,,1.48,0.02,0.0054
+haemophilia,,,veritsustõbi,24,hemofiilia,262,,,10.92,0.003,0.006
+glaukoma,,,rohekae,19,glaukoom,264,,,13.89,0.0024,0.006
+anthrax,,,põrnatõbi,20,antraks,333,,,16.65,0.0025,0.0076
+bulimia,,422.0,liigsöömine,340,buliimia,341,,,1.0,0.0423,0.0078
+capillary,,,juussoon,4,kapillaar,346,,,86.5,0.0005,0.0079
+haemorrhoid,,,pärakuveenikomu,3,hemorroid,401,,,133.67,0.0004,0.0092
+eczema,,,sammaspool,15,ekseem,442,,,29.47,0.0019,0.0101
+pupil,,,silmatera,375,pupill,442,,,1.18,0.0467,0.0101
+herpes,,,ohatis,224,herpes,446,,,1.99,0.0279,0.0102
+dermatitis,,,nahapõletik,295,dermatiit,457,,,1.55,0.0367,0.0104
+myocarditis ,,,südamelihasepõletik,96,müokardiit,457,,,4.76,0.0119,0.0104
+meningitis ,,,ajukelmepõletik,122,meningiit,484,,,3.97,0.0152,0.011
+encephalitis,,,ajupõletik,110,entsefaliit,491,,,4.46,0.0137,0.0112
+puberty,,,murdeiga,501,puberteet,536,,,1.07,0.0623,0.0122
+anorexia,,,isutus,344,anoreksia,555,,,1.61,0.0428,0.0127
+arthritis ,,,liigesepõletik,366,artriit ,621,,,1.7,0.0455,0.0142
+hepatitis,,,maksapõletik,142,hepatiit,635,,,4.47,0.0177,0.0145
+diphtheria,,1033.0,kurgutõbi,25,difteeria,640,,,25.6,0.0031,0.0146
+xenophobia,,,võõraviha,397,ksenofoobia,654,,,1.65,0.0494,0.0149
+haemoglobin,,,verevärvnik,8,hemoglobiin,657,,,82.12,0.001,0.015
+psoriasis,,,soomussammaspool,10,psoriaas,677,,,67.7,0.0012,0.0155
+pharmacy,,,rohuteadus,38,farmaatsia,687,,,18.08,0.0047,0.0157
+osteoporosis,,,luuhõrenemine,296,osteoporoos,692,,,2.34,0.0368,0.0158
+anaemia,,3283.0,kehvveresus,231,aneemia,741,,,3.21,0.0287,0.0169
+melancholia,,,raskemeelsus,129,melanhoolia,751,,,5.82,0.016,0.0171
+narcosis,,,uimastus,10,narkoos,833,,,83.3,0.0012,0.019
+leukaemia,,1348.0,verevähk,363,leukeemia,881,,,2.43,0.0452,0.0201
+autism,,,endassesulgumus,2,autism,946,,,473.0,0.0002,0.0216
+malaria,,,halltõbi,85,malaaria,1128,,,13.27,0.0106,0.0257
+glucose,,,viinamarjasuhkur,23,glükoos,1197,,,52.04,0.0029,0.0273
+arerty,,,tuiksoon,691,arter,1370,,,1.98,0.086,0.0313
+vein,,,tõmbsoon,1,veen,1440,,,1440.0,0.0001,0.0329
+euthanasia,,,halastussurm,47,eutanaasia,1736,,,36.94,0.0058,0.0396
+acne,,,vinnid,45,akne,1736,,,38.58,0.0056,0.0396
+menstruation,,,kuupuhastus,132,menstruatsioon,1743,,,13.2,0.0164,0.0398
+tromb,,,verehüüve,242,tromb,1832,,,7.57,0.0301,0.0418
+asthma,,,hingeldus,215,astma,2210,,,10.28,0.0267,0.0504
+alcoholism,,,joomatõbi,48,alkoholism,2280,,,47.5,0.006,0.052
+urine,,,kusi,563,uriin,2458,,,4.37,0.07,0.0561
+diabetes,,,suhkruhaigus,742,diabeet,6008,,,8.1,0.0923,0.1371
