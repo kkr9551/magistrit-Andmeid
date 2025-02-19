@@ -1,0 +1,2 @@
+# magistrit-Andmeid
+Magistritöö jaoks
